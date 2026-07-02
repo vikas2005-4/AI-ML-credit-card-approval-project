@@ -5,7 +5,14 @@
     <h4>Prediction Result for {{name}}</h4>
     <p><strong>Decision:</strong> {{prediction}}</p>
     <p><strong>Probability:</strong> {{probability}}</p>
-    <p><strong>Model Used:</strong> {{model}}</p>
+    <div class="mt-4">
+      <h5>How to get better offers</h5>
+      <ul>
+        {% for tip in suggestions %}
+          <li>{{ tip }}</li>
+        {% endfor %}
+      </ul>
+    </div>
     <a class="btn btn-primary" href="/predict">Make another prediction</a>
   </div>
 </div>
