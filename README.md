@@ -5,32 +5,33 @@ The Credit Card Approval Prediction project uses machine learning to predict whe
 
 1. Open PowerShell and go to the project root:
 ```powershell
-Set-Location 'f:\AI-ML-credit-card-approval-project'
+Set-Location 'f:\AI-ML-credit-card-approval-project\5.Project Development Phase'
 ```
 
-2. Build the Docker image:
+2. Create and activate a virtual environment:
 ```powershell
-docker build -t credit-card-approval .
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 ```
 
-3. Run the app:
+3. Install dependencies:
 ```powershell
-docker run --rm -p 5000:5000 credit-card-approval
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 ```
 
-4. Open in browser:
+4. Run the Flask app:
+```powershell
+python app.py
+```
+
+5. Open in browser:
 ```
 http://127.0.0.1:5000
-```
-
-## Run with Docker Compose
-
-```powershell
-docker compose up --build
 ```
 
 ## Notes
 
 - The app files are located under `5.Project Development Phase/`.
 - The Flask app listens on port `5000`.
-- If the project is already running locally, stop it before starting Docker.
+- If the project is already running locally, stop it before starting the app.
