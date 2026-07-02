@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/*.pkl
+predictions.db
+.env
+.venv/
+.venv-1/

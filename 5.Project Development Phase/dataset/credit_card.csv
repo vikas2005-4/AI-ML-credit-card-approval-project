@@ -1,0 +1,501 @@
+Gender,Age,Income_Type,Annual_Income,Employment_Duration,Education_Level,Marital_Status,Occupation,Housing_Type,Family_Members,Credit_Score,Existing_Loans,Loan_Amount,Payment_History,Approval_Status
+Male,41,Salaried,88454.27,32,Bachelors,Divorced,Clerk,Mortgage,1,573,2,23934.67,Good,Approved
+Female,52,Self-Employed,51710.33,3,Masters,Single,Executive,Rented,3,593,0,16491.33,Good,Approved
+Male,43,Salaried,75453.51,3,Masters,Single,Technician,Owned,5,582,2,9146.95,Good,Approved
+Male,53,Self-Employed,47407.39,38,High School,Divorced,Manager,Mortgage,3,748,3,30123.53,Average,Approved
+Male,23,Salaried,49603.32,39,Masters,Single,Executive,Rented,4,641,2,15394.47,Good,Approved
+Female,38,Business,57398.76,16,High School,Single,Other,Owned,4,651,0,21150.72,Good,Approved
+Male,45,Salaried,72881.82,36,Masters,Single,Clerk,Mortgage,1,654,0,10134.19,Average,Approved
+Male,62,Unemployed,89854.55,38,Masters,Widowed,Executive,Mortgage,1,599,2,17904.93,Good,Approved
+Male,51,Self-Employed,62413.63,28,Bachelors,Widowed,Executive,Rented,0,759,1,17488.88,Good,Approved
+Female,23,Salaried,22504.08,35,Masters,Divorced,Other,Owned,3,678,3,-117.19,Good,Approved
+Male,60,Business,75786.16,37,Bachelors,Single,Technician,Owned,3,652,3,31122.2,Good,Approved
+Male,66,Salaried,121346.05,38,Bachelors,Widowed,Manager,Mortgage,4,572,2,25325.16,Good,Approved
+Male,44,Salaried,62716.72,36,Masters,Divorced,Other,Mortgage,0,568,1,11822.44,Good,Approved
+Male,52,Salaried,17280.81,34,Bachelors,Single,Manager,Mortgage,5,628,0,6181.84,Average,Approved
+Female,67,Salaried,64241.32,6,Bachelors,Married,Technician,Owned,3,601,4,17780.49,Bad,Rejected
+Male,42,Salaried,59924.68,26,Bachelors,Single,Executive,Rented,0,575,4,15693.58,Good,Approved
+Female,43,Salaried,57822.28,27,Masters,Single,Manager,Rented,0,624,2,17845.35,Good,Approved
+Female,22,Business,83635.25,21,Bachelors,Widowed,Clerk,Owned,4,634,1,16532.62,Good,Approved
+Female,47,Salaried,94456.87,13,High School,Divorced,Clerk,Rented,0,659,1,19049.93,Average,Approved
+Male,62,Salaried,77089.64,6,Masters,Divorced,Other,Mortgage,1,614,3,26578.45,Good,Approved
+Female,22,Salaried,56673.55,36,Masters,Widowed,Technician,Rented,1,579,0,19544.83,Good,Approved
+Male,46,Salaried,88141.97,21,High School,Single,Other,Rented,2,581,1,6602.76,Average,Approved
+Female,37,Salaried,22654.26,4,Bachelors,Married,Other,Rented,4,734,4,25900.5,Average,Rejected
+Female,60,Self-Employed,42098.6,1,High School,Single,Other,Mortgage,5,562,0,28124.92,Average,Approved
+Female,53,Salaried,44884.31,26,Bachelors,Single,Clerk,Owned,2,675,0,40216.45,Good,Approved
+Female,29,Salaried,59226.23,20,Bachelors,Married,Clerk,Mortgage,1,686,2,6012.05,Average,Approved
+Female,63,Salaried,72668.37,37,Masters,Widowed,Other,Owned,2,641,1,16943.06,Average,Approved
+Female,68,Salaried,54982.18,14,Bachelors,Divorced,Clerk,Owned,4,773,2,-1656.79,Good,Approved
+Female,59,Business,37349.11,20,Bachelors,Widowed,Technician,Owned,4,685,1,19425.19,Good,Approved
+Female,49,Salaried,84371.26,9,Bachelors,Widowed,Other,Rented,0,779,3,10614.4,Good,Approved
+Male,62,Salaried,54113.58,22,Masters,Single,Clerk,Rented,3,604,2,30387.57,Bad,Approved
+Male,46,Unemployed,62553.22,38,Bachelors,Divorced,Manager,Owned,0,605,2,8803.08,Good,Approved
+Female,55,Salaried,73776.69,4,PhD,Divorced,Other,Owned,4,686,4,1486.54,Good,Approved
+Female,45,Business,60971.94,0,Bachelors,Widowed,Other,Rented,1,631,2,11229.89,Good,Approved
+Female,44,Salaried,61081.79,12,High School,Married,Technician,Mortgage,5,767,1,-803.9,Average,Approved
+Male,33,Self-Employed,85761.84,20,Bachelors,Widowed,Executive,Owned,1,673,4,21008.8,Good,Approved
+Female,27,Salaried,63784.24,25,Bachelors,Married,Executive,Mortgage,0,576,2,-1520.66,Good,Approved
+Male,56,Self-Employed,81569.92,20,Bachelors,Divorced,Technician,Rented,5,528,2,15227.66,Good,Approved
+Male,65,Salaried,73616.69,17,High School,Widowed,Technician,Owned,4,644,3,-1622.49,Bad,Approved
+Male,40,Salaried,110422.19,36,High School,Single,Technician,Mortgage,1,643,2,12437.62,Good,Approved
+Male,21,Salaried,70235.34,31,Masters,Widowed,Executive,Mortgage,4,671,0,28147.03,Good,Approved
+Male,28,Self-Employed,75949.33,35,Bachelors,Divorced,Technician,Mortgage,5,734,4,17885.18,Average,Approved
+Female,66,Business,87541.42,16,Masters,Single,Clerk,Rented,5,725,0,8092.05,Good,Approved
+Female,36,Self-Employed,61590.44,34,Bachelors,Single,Other,Rented,1,609,4,14750.37,Bad,Rejected
+Female,34,Salaried,44053.67,10,Bachelors,Married,Other,Mortgage,4,559,3,15144.13,Good,Approved
+Female,32,Business,48146.36,20,Bachelors,Single,Manager,Mortgage,2,563,2,18781.04,Good,Approved
+Female,43,Salaried,48387.33,25,Bachelors,Single,Manager,Rented,4,598,2,4065.13,Good,Approved
+Male,35,Salaried,36241.73,3,Bachelors,Widowed,Other,Mortgage,5,624,2,19740.54,Good,Approved
+Female,48,Salaried,67945.13,33,Bachelors,Divorced,Clerk,Mortgage,4,671,4,-6635.13,Good,Approved
+Female,54,Self-Employed,44262.09,17,High School,Married,Executive,Rented,0,593,2,9960.92,Good,Approved
+Male,22,Salaried,64871.32,39,Bachelors,Widowed,Executive,Mortgage,2,669,0,11093.81,Average,Approved
+Female,52,Salaried,56033.14,34,Bachelors,Single,Clerk,Mortgage,3,675,2,20066.61,Good,Approved
+Male,43,Business,58959.46,28,Masters,Single,Executive,Mortgage,0,660,3,15181.05,Good,Approved
+Female,42,Salaried,73901.42,28,Masters,Married,Technician,Rented,3,570,0,3755.5,Good,Approved
+Male,45,Salaried,46452.52,37,Masters,Divorced,Other,Mortgage,1,682,2,7120.05,Bad,Approved
+Female,42,Salaried,75972.28,20,Masters,Married,Other,Rented,3,795,2,16589.44,Good,Approved
+Female,42,Salaried,99182.7,12,Bachelors,Widowed,Clerk,Rented,4,667,1,14367.46,Good,Approved
+Male,69,Salaried,68577.73,16,Bachelors,Married,Executive,Owned,3,443,4,10367.01,Good,Rejected
+Male,62,Salaried,40447.61,8,Masters,Single,Manager,Owned,5,736,0,11153.33,Good,Approved
+Male,26,Self-Employed,44624.55,0,Bachelors,Widowed,Manager,Mortgage,0,600,1,20569.34,Good,Approved
+Male,35,Salaried,53793.43,1,Bachelors,Single,Executive,Rented,0,808,3,10858.46,Bad,Approved
+Male,63,Salaried,45127.74,28,High School,Divorced,Manager,Owned,3,658,4,14295.27,Good,Approved
+Male,57,Self-Employed,35220.49,32,Bachelors,Single,Clerk,Mortgage,0,532,0,32359.49,Average,Approved
+Male,53,Salaried,63860.18,9,Bachelors,Single,Clerk,Owned,5,505,2,3610.54,Good,Approved
+Male,28,Salaried,54470.07,39,Masters,Married,Executive,Owned,0,757,0,185.26,Good,Approved
+Female,64,Salaried,64743.02,20,Bachelors,Single,Manager,Rented,3,727,2,21268.72,Bad,Approved
+Female,64,Salaried,89659.69,27,Bachelors,Widowed,Clerk,Rented,2,805,4,9570.86,Good,Approved
+Male,25,Salaried,54091.18,10,PhD,Widowed,Clerk,Owned,2,650,2,12454.1,Bad,Approved
+Female,59,Business,30364.5,33,High School,Divorced,Technician,Owned,1,646,3,8750.75,Good,Approved
+Female,24,Self-Employed,50027.69,7,Bachelors,Widowed,Technician,Rented,0,623,2,12921.6,Bad,Approved
+Female,26,Salaried,79260.63,21,High School,Married,Clerk,Mortgage,3,603,3,27788.3,Good,Approved
+Female,65,Salaried,76919.26,7,Masters,Divorced,Executive,Rented,0,622,4,21417.03,Good,Approved
+Male,52,Salaried,72965.99,14,Masters,Widowed,Other,Owned,4,665,4,21897.79,Good,Approved
+Female,50,Business,44382.33,16,Bachelors,Married,Other,Mortgage,5,590,0,3670.18,Good,Approved
+Male,67,Salaried,78797.57,22,Masters,Widowed,Clerk,Owned,0,533,3,5790.77,Good,Approved
+Female,55,Salaried,84422.48,23,Bachelors,Widowed,Clerk,Mortgage,0,661,3,-7712.63,Good,Approved
+Female,60,Salaried,42614.46,18,Masters,Single,Clerk,Owned,2,589,1,8524.95,Good,Approved
+Female,36,Salaried,58960.75,4,Masters,Widowed,Executive,Mortgage,5,423,1,22653.63,Good,Approved
+Male,33,Business,110510.05,31,Masters,Widowed,Technician,Mortgage,3,688,1,19135.57,Average,Approved
+Female,62,Salaried,41503.14,0,High School,Married,Clerk,Owned,0,572,2,13227.89,Good,Approved
+Male,50,Business,17372.83,22,PhD,Married,Clerk,Mortgage,2,696,1,14821.6,Good,Approved
+Female,39,Salaried,94572.61,36,Masters,Single,Manager,Rented,1,694,3,9488.92,Good,Approved
+Male,37,Business,88415.12,7,Bachelors,Widowed,Executive,Owned,5,669,2,16638.07,Good,Approved
+Female,39,Salaried,48575.82,12,Masters,Single,Clerk,Rented,2,824,4,21127.03,Good,Approved
+Male,48,Salaried,57175.21,7,Bachelors,Widowed,Manager,Owned,2,640,0,2072.91,Good,Approved
+Male,46,Self-Employed,29376.62,22,Masters,Divorced,Other,Mortgage,2,630,1,17397.18,Bad,Approved
+Female,57,Unemployed,62223.81,0,High School,Divorced,Clerk,Mortgage,0,697,4,22459.48,Average,Approved
+Male,46,Business,89147.84,23,Masters,Single,Clerk,Mortgage,0,646,3,11679.2,Good,Approved
+Female,43,Salaried,46434.88,34,Bachelors,Single,Manager,Owned,1,731,0,20605.6,Good,Approved
+Female,29,Business,81927.55,23,High School,Single,Executive,Rented,4,561,4,37517.24,Good,Approved
+Female,32,Salaried,71593.1,16,Bachelors,Married,Clerk,Rented,4,562,0,14165.26,Good,Approved
+Female,21,Unemployed,74445.42,4,High School,Married,Other,Owned,4,703,1,18146.46,Good,Approved
+Female,21,Salaried,47892.27,19,Bachelors,Married,Clerk,Owned,5,568,3,9095.54,Good,Approved
+Female,67,Self-Employed,51134.4,20,Bachelors,Single,Other,Rented,5,692,0,16450.01,Good,Approved
+Female,54,Business,13830.69,39,Bachelors,Widowed,Technician,Rented,1,675,4,18682.17,Good,Approved
+Female,52,Self-Employed,45833.26,30,Bachelors,Divorced,Technician,Rented,5,601,1,16558.74,Good,Approved
+Female,68,Salaried,89087.14,35,Bachelors,Single,Other,Rented,4,675,1,6842.44,Average,Approved
+Female,45,Salaried,36766.7,10,Masters,Married,Executive,Owned,4,563,4,16650.89,Good,Approved
+Female,60,Business,40492.46,14,High School,Married,Clerk,Owned,2,580,4,26697.57,Average,Rejected
+Male,65,Salaried,76004.75,18,Masters,Single,Clerk,Mortgage,5,633,0,18589.09,Bad,Approved
+Male,21,Unemployed,70069.21,6,Masters,Single,Technician,Rented,0,655,2,22695.9,Good,Approved
+Female,36,Self-Employed,77246.58,27,Bachelors,Married,Other,Mortgage,0,628,1,13103.9,Good,Approved
+Female,59,Salaried,30919.49,4,Bachelors,Widowed,Clerk,Owned,2,680,0,20999.2,Good,Approved
+Female,25,Self-Employed,124101.45,4,Masters,Married,Clerk,Owned,2,677,4,17234.14,Bad,Approved
+Female,42,Salaried,29606.17,29,High School,Married,Executive,Mortgage,2,757,0,7392.71,Bad,Approved
+Female,49,Self-Employed,63856.18,31,High School,Single,Manager,Rented,0,643,4,17548.17,Good,Approved
+Female,23,Self-Employed,56033.61,7,Bachelors,Widowed,Technician,Rented,4,733,3,7066.43,Good,Approved
+Female,32,Salaried,30333.96,9,Masters,Married,Technician,Rented,2,714,4,9936.96,Average,Rejected
+Female,46,Salaried,50744.76,37,High School,Married,Manager,Rented,1,810,4,16514.63,Good,Approved
+Male,36,Business,60582.69,31,Bachelors,Divorced,Clerk,Mortgage,2,641,4,17377.95,Average,Rejected
+Female,57,Salaried,43750.67,27,PhD,Single,Executive,Mortgage,3,620,2,5486.14,Bad,Approved
+Male,42,Salaried,83430.59,16,Masters,Divorced,Executive,Owned,2,738,4,23431.89,Good,Approved
+Female,49,Salaried,55959.36,30,Bachelors,Divorced,Technician,Rented,0,676,1,19576.05,Good,Approved
+Female,34,Salaried,26468.13,7,High School,Married,Executive,Rented,5,739,1,9362.17,Good,Approved
+Male,48,Salaried,24346.86,39,Masters,Single,Manager,Rented,2,700,0,2699.32,Good,Approved
+Female,25,Salaried,75154.13,24,Bachelors,Widowed,Clerk,Mortgage,5,502,2,13840.76,Good,Approved
+Male,67,Salaried,22830.73,8,High School,Married,Manager,Rented,3,676,0,11432.45,Average,Approved
+Female,69,Self-Employed,67910.65,1,High School,Widowed,Other,Mortgage,1,671,1,15905.12,Bad,Approved
+Female,50,Salaried,71116.38,14,Masters,Widowed,Technician,Rented,5,659,1,12095.07,Bad,Approved
+Male,66,Salaried,35116.12,2,Bachelors,Single,Executive,Rented,4,640,3,-1059.65,Good,Approved
+Female,25,Salaried,82268.45,35,Masters,Divorced,Other,Owned,2,538,4,11893.22,Average,Rejected
+Male,32,Salaried,17055.16,3,Masters,Single,Executive,Rented,3,711,1,12555.05,Average,Approved
+Female,36,Salaried,67411.47,13,Bachelors,Widowed,Clerk,Rented,3,676,0,20069.29,Good,Approved
+Male,46,Self-Employed,58978.55,24,Bachelors,Married,Clerk,Owned,5,727,0,9414.4,Good,Approved
+Male,46,Self-Employed,57025.05,9,Bachelors,Widowed,Clerk,Mortgage,1,542,4,28429.4,Good,Rejected
+Female,68,Salaried,30552.58,20,Bachelors,Married,Executive,Mortgage,0,685,4,-293.12,Bad,Rejected
+Female,41,Business,36574.45,35,Bachelors,Married,Other,Rented,2,633,3,25489.34,Good,Approved
+Male,59,Self-Employed,100470.05,11,Masters,Single,Clerk,Mortgage,3,660,2,13205.45,Average,Approved
+Female,56,Salaried,90378.88,26,Bachelors,Widowed,Other,Rented,1,634,0,21876.68,Good,Approved
+Female,53,Business,78552.11,39,Masters,Divorced,Executive,Owned,4,688,4,15638.41,Average,Approved
+Female,50,Unemployed,83496.2,1,Bachelors,Widowed,Other,Owned,3,638,0,24116.44,Good,Approved
+Male,57,Salaried,81150.34,12,Bachelors,Widowed,Executive,Rented,1,576,4,11901.1,Good,Approved
+Male,43,Salaried,51916.09,31,Bachelors,Divorced,Executive,Owned,0,656,1,6211.04,Good,Approved
+Male,30,Business,61190.09,30,Bachelors,Single,Technician,Owned,0,635,0,26364.03,Good,Approved
+Male,25,Self-Employed,23187.29,15,Masters,Widowed,Executive,Rented,3,644,1,14092.15,Average,Approved
+Male,56,Salaried,57757.61,31,Bachelors,Widowed,Executive,Rented,3,426,0,16772.47,Good,Approved
+Male,54,Self-Employed,89585.36,31,Bachelors,Married,Manager,Owned,5,697,2,24878.02,Good,Approved
+Male,51,Business,43482.32,33,High School,Widowed,Clerk,Mortgage,2,627,3,6744.36,Good,Approved
+Male,30,Self-Employed,85578.53,10,Bachelors,Divorced,Technician,Mortgage,1,555,1,19763.93,Good,Approved
+Male,39,Self-Employed,62289.64,9,Bachelors,Married,Technician,Rented,3,714,4,10280.84,Good,Approved
+Female,52,Business,25365.7,14,Bachelors,Single,Technician,Rented,2,694,2,13942.65,Good,Approved
+Male,21,Salaried,32317.01,16,PhD,Married,Manager,Mortgage,5,627,0,15578.23,Bad,Approved
+Female,25,Salaried,82982.57,39,Bachelors,Divorced,Executive,Owned,2,569,1,2998.23,Good,Approved
+Female,65,Self-Employed,73813.1,17,Masters,Divorced,Clerk,Mortgage,3,662,0,8769.3,Average,Approved
+Female,24,Business,62544.1,8,Bachelors,Married,Other,Mortgage,0,658,0,25808.58,Bad,Approved
+Male,36,Salaried,53149.2,24,Bachelors,Single,Executive,Mortgage,1,714,0,22089.53,Good,Approved
+Male,44,Salaried,65264.2,39,High School,Married,Manager,Mortgage,1,618,3,14498.88,Good,Approved
+Male,36,Self-Employed,82007.41,13,Bachelors,Single,Executive,Rented,0,733,3,16944.99,Good,Approved
+Male,22,Salaried,96896.33,24,Bachelors,Married,Executive,Rented,3,612,4,12646.06,Bad,Rejected
+Female,69,Self-Employed,98092.1,21,Bachelors,Divorced,Manager,Owned,1,555,1,25852.67,Bad,Approved
+Male,48,Business,69299.0,29,High School,Widowed,Technician,Owned,3,570,2,13397.18,Good,Approved
+Male,52,Self-Employed,55701.71,19,High School,Widowed,Technician,Owned,5,645,2,16854.74,Average,Approved
+Male,47,Salaried,63656.2,20,Bachelors,Single,Clerk,Owned,3,645,2,24168.24,Good,Approved
+Male,40,Salaried,73053.01,31,PhD,Single,Clerk,Mortgage,2,672,0,8781.03,Bad,Approved
+Male,44,Salaried,72951.67,20,Bachelors,Single,Technician,Rented,0,643,3,27470.31,Bad,Approved
+Female,32,Salaried,92699.67,34,Bachelors,Divorced,Other,Rented,3,718,1,2756.31,Good,Approved
+Male,55,Salaried,112893.89,31,High School,Married,Executive,Owned,5,631,0,28037.14,Good,Approved
+Female,53,Salaried,54868.63,29,Bachelors,Divorced,Other,Owned,4,510,3,12018.6,Good,Approved
+Male,53,Salaried,113897.12,38,Bachelors,Widowed,Executive,Mortgage,0,641,3,13058.41,Good,Approved
+Female,63,Salaried,89305.98,11,Bachelors,Single,Technician,Mortgage,1,509,1,-120.08,Average,Approved
+Male,57,Salaried,57479.43,17,Bachelors,Married,Clerk,Owned,2,668,1,11361.64,Good,Approved
+Male,32,Salaried,97464.12,20,High School,Widowed,Clerk,Rented,1,724,1,6681.55,Good,Approved
+Female,23,Salaried,102141.21,12,High School,Widowed,Other,Rented,5,580,0,10138.83,Good,Approved
+Female,21,Self-Employed,48492.61,20,Bachelors,Widowed,Clerk,Rented,5,749,4,13901.51,Bad,Approved
+Female,53,Self-Employed,103305.38,7,High School,Divorced,Technician,Owned,1,708,1,22662.33,Good,Approved
+Male,60,Salaried,86877.07,39,High School,Single,Other,Rented,0,734,4,16660.83,Good,Approved
+Female,30,Business,119213.98,6,Bachelors,Widowed,Executive,Mortgage,1,663,0,17461.41,Good,Approved
+Male,63,Salaried,49399.04,22,Masters,Single,Clerk,Mortgage,3,580,4,6235.84,Bad,Rejected
+Male,64,Self-Employed,51164.33,31,Bachelors,Divorced,Manager,Owned,1,704,2,7953.97,Average,Approved
+Female,49,Salaried,9333.45,10,Bachelors,Widowed,Clerk,Mortgage,2,606,4,29389.8,Good,Rejected
+Female,33,Unemployed,74279.85,21,Bachelors,Divorced,Executive,Owned,2,658,1,9118.39,Good,Approved
+Male,32,Self-Employed,69381.28,21,Masters,Divorced,Other,Rented,4,638,0,28249.67,Good,Approved
+Male,51,Self-Employed,45925.16,24,Bachelors,Single,Executive,Rented,2,728,1,13055.51,Good,Approved
+Female,66,Self-Employed,57953.73,21,High School,Widowed,Manager,Rented,1,701,2,15018.3,Good,Approved
+Female,22,Salaried,27219.47,27,Bachelors,Divorced,Technician,Mortgage,2,644,1,23562.92,Bad,Approved
+Female,55,Salaried,89961.12,28,High School,Widowed,Clerk,Owned,0,513,1,25175.14,Good,Approved
+Male,43,Self-Employed,47757.51,12,Bachelors,Single,Other,Rented,2,605,1,14113.5,Average,Approved
+Male,37,Salaried,137351.23,17,Bachelors,Divorced,Technician,Owned,3,699,3,11894.06,Good,Approved
+Male,46,Self-Employed,55609.97,1,Masters,Single,Executive,Rented,0,669,2,14552.64,Average,Approved
+Male,28,Salaried,41009.53,28,Bachelors,Widowed,Other,Mortgage,4,544,1,17703.66,Average,Rejected
+Male,49,Salaried,49692.17,20,Masters,Widowed,Technician,Mortgage,3,523,1,22130.43,Good,Approved
+Male,46,Salaried,24700.98,14,PhD,Single,Other,Owned,1,663,1,15033.84,Good,Approved
+Female,30,Salaried,72056.8,26,High School,Married,Manager,Mortgage,1,576,0,19951.09,Good,Approved
+Male,46,Self-Employed,49502.51,30,Bachelors,Divorced,Manager,Mortgage,1,582,3,28106.88,Good,Approved
+Male,54,Salaried,88281.32,14,Bachelors,Widowed,Clerk,Owned,3,697,0,18050.48,Good,Approved
+Male,61,Salaried,53131.31,22,Bachelors,Widowed,Clerk,Rented,3,734,3,17493.22,Good,Approved
+Female,27,Salaried,94611.05,23,Bachelors,Divorced,Manager,Mortgage,3,597,1,2848.71,Bad,Approved
+Male,24,Salaried,78936.39,12,Masters,Single,Other,Owned,0,646,2,-6045.84,Good,Approved
+Male,65,Self-Employed,60714.92,21,Masters,Single,Manager,Mortgage,5,644,4,18107.01,Average,Rejected
+Female,31,Salaried,99505.81,36,Bachelors,Single,Clerk,Mortgage,0,638,4,14241.41,Good,Approved
+Male,49,Salaried,83807.34,32,Bachelors,Married,Manager,Mortgage,1,652,1,10881.74,Average,Approved
+Male,56,Salaried,133655.32,2,Masters,Married,Manager,Mortgage,5,702,0,16948.24,Good,Approved
+Male,45,Self-Employed,49763.62,18,PhD,Widowed,Other,Owned,2,602,2,14516.77,Average,Approved
+Male,41,Salaried,61915.4,22,Masters,Single,Technician,Owned,1,543,3,24022.24,Good,Approved
+Male,56,Business,99217.73,28,High School,Divorced,Clerk,Owned,4,768,1,15688.89,Good,Approved
+Female,30,Unemployed,21411.55,29,Bachelors,Widowed,Other,Mortgage,0,726,2,9024.61,Good,Approved
+Female,57,Salaried,92923.59,38,High School,Divorced,Manager,Mortgage,3,572,2,22921.33,Good,Approved
+Female,29,Salaried,70982.57,24,Bachelors,Widowed,Manager,Mortgage,0,659,3,13262.95,Good,Approved
+Male,44,Salaried,37794.73,36,High School,Married,Technician,Owned,3,720,2,19212.29,Good,Approved
+Male,55,Salaried,25924.01,7,Bachelors,Widowed,Clerk,Mortgage,5,702,0,11180.71,Good,Approved
+Male,69,Self-Employed,43187.76,15,Bachelors,Married,Clerk,Rented,4,682,0,9801.38,Average,Approved
+Female,55,Business,2879.51,7,High School,Widowed,Executive,Mortgage,5,638,0,15673.35,Good,Approved
+Male,68,Salaried,47761.51,0,Bachelors,Single,Clerk,Rented,4,770,2,15102.63,Good,Approved
+Male,56,Salaried,75563.91,4,Bachelors,Divorced,Technician,Mortgage,0,665,0,18838.62,Average,Approved
+Female,38,Salaried,48092.48,2,Bachelors,Single,Executive,Owned,3,613,3,12850.83,Good,Approved
+Male,69,Self-Employed,94707.82,0,High School,Widowed,Executive,Mortgage,5,710,2,309.12,Good,Approved
+Female,59,Salaried,101498.69,3,Bachelors,Widowed,Manager,Rented,4,656,4,11537.81,Good,Approved
+Female,52,Salaried,91891.11,39,Masters,Widowed,Manager,Rented,1,674,2,21350.55,Bad,Approved
+Female,44,Business,65766.02,34,High School,Married,Clerk,Mortgage,1,664,3,12620.99,Average,Approved
+Male,43,Self-Employed,1883.02,31,High School,Divorced,Executive,Rented,5,684,4,13028.93,Average,Rejected
+Male,52,Salaried,42407.56,33,Bachelors,Divorced,Manager,Rented,3,581,2,22891.01,Good,Approved
+Male,57,Self-Employed,56449.04,24,Masters,Widowed,Technician,Owned,5,548,0,9304.21,Average,Approved
+Male,32,Self-Employed,37653.31,9,Bachelors,Widowed,Manager,Mortgage,0,750,1,2657.57,Good,Approved
+Male,69,Salaried,56512.36,20,Bachelors,Married,Manager,Mortgage,4,667,1,13714.95,Good,Approved
+Male,33,Salaried,100251.69,38,Bachelors,Single,Executive,Mortgage,0,703,0,11126.61,Good,Approved
+Male,43,Salaried,18855.59,26,Bachelors,Single,Executive,Rented,1,526,1,7270.03,Good,Approved
+Female,45,Salaried,105292.3,26,High School,Divorced,Other,Mortgage,4,724,1,13596.97,Good,Approved
+Male,55,Business,82118.16,1,Bachelors,Married,Technician,Mortgage,5,613,0,18932.05,Good,Approved
+Female,61,Business,66705.42,12,Masters,Widowed,Executive,Owned,0,593,0,14925.69,Good,Approved
+Male,50,Salaried,42159.59,8,Bachelors,Divorced,Clerk,Owned,2,645,2,17455.85,Good,Approved
+Male,37,Salaried,38151.24,35,Masters,Married,Technician,Owned,3,581,2,29507.26,Average,Rejected
+Male,69,Salaried,19344.56,21,Masters,Single,Technician,Rented,3,649,0,12256.97,Good,Approved
+Female,40,Salaried,102919.14,25,High School,Married,Executive,Mortgage,2,640,3,17226.79,Average,Approved
+Female,68,Business,98440.29,11,Masters,Single,Technician,Owned,1,724,1,10926.29,Good,Approved
+Female,45,Salaried,24842.88,16,High School,Married,Executive,Owned,4,755,2,8229.12,Average,Approved
+Female,42,Salaried,46184.3,13,Bachelors,Divorced,Manager,Owned,3,753,1,10320.74,Good,Approved
+Male,33,Salaried,70828.62,13,High School,Single,Other,Mortgage,2,491,4,11169.93,Good,Rejected
+Female,39,Self-Employed,52512.27,33,High School,Divorced,Manager,Mortgage,5,584,0,17875.81,Good,Approved
+Male,69,Salaried,12033.13,19,Bachelors,Divorced,Executive,Mortgage,2,490,3,33792.61,Good,Rejected
+Male,56,Self-Employed,43555.68,10,Bachelors,Single,Executive,Rented,1,566,4,9271.65,Average,Rejected
+Female,32,Salaried,108775.86,15,Bachelors,Single,Manager,Rented,1,604,4,11667.0,Good,Approved
+Female,61,Self-Employed,45250.54,30,Bachelors,Widowed,Clerk,Owned,0,678,4,14495.02,Good,Approved
+Female,39,Self-Employed,55913.32,5,High School,Widowed,Clerk,Mortgage,3,613,0,18166.39,Average,Approved
+Female,32,Salaried,31370.56,18,High School,Widowed,Clerk,Owned,0,615,2,17108.41,Good,Approved
+Female,29,Salaried,74694.07,36,Bachelors,Divorced,Executive,Mortgage,2,662,0,25272.77,Good,Approved
+Female,27,Business,62878.79,3,Bachelors,Divorced,Technician,Mortgage,4,530,2,-4411.14,Good,Approved
+Female,48,Business,41449.51,3,Masters,Widowed,Executive,Mortgage,4,591,4,-4095.44,Good,Approved
+Female,34,Salaried,27383.62,19,Bachelors,Divorced,Technician,Rented,1,614,4,11032.97,Good,Approved
+Male,51,Salaried,95113.58,9,Masters,Divorced,Manager,Rented,4,635,3,23778.4,Good,Approved
+Female,39,Business,19861.41,23,Bachelors,Single,Other,Mortgage,4,655,2,2474.82,Bad,Approved
+Female,67,Salaried,72595.39,34,Bachelors,Single,Technician,Owned,4,755,4,-9061.06,Good,Approved
+Male,36,Salaried,6153.02,25,Bachelors,Divorced,Clerk,Mortgage,2,713,1,19569.44,Good,Approved
+Female,25,Business,77680.29,36,Bachelors,Widowed,Executive,Mortgage,4,596,3,16949.26,Good,Approved
+Male,55,Salaried,84257.47,37,Bachelors,Married,Manager,Owned,5,631,0,6278.33,Bad,Approved
+Male,32,Salaried,87369.59,20,Masters,Widowed,Clerk,Mortgage,4,626,3,7115.68,Average,Approved
+Female,45,Salaried,55969.79,39,Bachelors,Married,Manager,Owned,4,614,1,7242.05,Good,Approved
+Male,41,Salaried,99600.09,38,Masters,Widowed,Other,Rented,0,669,2,15884.28,Average,Approved
+Male,56,Salaried,117694.79,20,Masters,Single,Executive,Rented,2,519,0,9989.48,Good,Approved
+Male,43,Self-Employed,51959.42,9,Masters,Divorced,Executive,Owned,1,711,0,18952.51,Good,Approved
+Male,36,Salaried,48724.87,37,Masters,Divorced,Other,Rented,0,768,2,-7837.01,Good,Approved
+Female,59,Salaried,63729.43,3,Bachelors,Single,Executive,Rented,3,631,3,8145.19,Good,Approved
+Male,65,Salaried,48058.0,19,Bachelors,Married,Technician,Owned,2,629,4,5991.57,Good,Approved
+Female,62,Salaried,44403.25,16,Bachelors,Married,Manager,Rented,5,660,3,12949.27,Bad,Approved
+Male,59,Unemployed,46581.54,6,Bachelors,Married,Clerk,Mortgage,2,721,1,10695.62,Good,Approved
+Male,34,Salaried,102893.9,3,Bachelors,Single,Other,Mortgage,3,627,4,21382.75,Bad,Approved
+Male,51,Salaried,79297.05,28,Masters,Married,Technician,Owned,3,715,3,125.31,Good,Approved
+Male,25,Business,47976.35,13,Bachelors,Single,Clerk,Rented,3,684,2,15363.93,Good,Approved
+Female,55,Salaried,-1378.13,2,Bachelors,Widowed,Clerk,Mortgage,1,815,1,19466.69,Good,Approved
+Female,43,Salaried,21388.39,23,High School,Widowed,Other,Mortgage,4,626,1,29853.18,Good,Approved
+Male,49,Salaried,72585.73,36,Bachelors,Single,Technician,Rented,2,511,1,11145.87,Good,Approved
+Male,63,Salaried,6961.1,15,High School,Divorced,Clerk,Rented,4,549,4,17595.67,Good,Rejected
+Female,31,Salaried,67324.84,3,Masters,Widowed,Clerk,Mortgage,4,650,0,569.1,Good,Approved
+Male,38,Salaried,33360.91,23,Bachelors,Married,Technician,Mortgage,5,721,4,-4135.65,Good,Approved
+Male,67,Self-Employed,62295.14,33,High School,Single,Executive,Owned,3,604,3,21758.2,Average,Rejected
+Male,32,Salaried,61596.41,29,High School,Married,Clerk,Owned,1,633,0,14955.52,Good,Approved
+Female,29,Salaried,63014.75,17,Bachelors,Married,Manager,Mortgage,5,697,3,24428.1,Good,Approved
+Female,30,Self-Employed,50139.45,18,Bachelors,Divorced,Technician,Owned,0,582,0,4012.78,Good,Approved
+Female,64,Salaried,49317.86,30,Bachelors,Married,Clerk,Mortgage,1,607,4,19159.22,Bad,Rejected
+Male,37,Business,41980.24,18,High School,Divorced,Other,Mortgage,4,568,1,29950.54,Average,Approved
+Male,58,Salaried,72097.31,18,Bachelors,Widowed,Manager,Owned,1,732,2,18357.64,Good,Approved
+Female,27,Salaried,80129.82,21,Bachelors,Single,Clerk,Owned,3,757,1,17212.65,Good,Approved
+Female,66,Self-Employed,29525.69,23,Bachelors,Married,Manager,Rented,0,539,4,15068.45,Good,Rejected
+Female,33,Salaried,58709.29,11,Bachelors,Single,Manager,Rented,3,640,0,2432.95,Bad,Approved
+Female,60,Salaried,64914.55,29,Bachelors,Married,Executive,Rented,0,748,1,25844.58,Good,Approved
+Male,62,Salaried,64594.28,37,Bachelors,Single,Manager,Mortgage,5,677,4,10113.14,Good,Approved
+Female,29,Salaried,64169.24,30,PhD,Married,Executive,Owned,4,615,3,19035.87,Good,Approved
+Male,47,Self-Employed,49949.13,35,Bachelors,Married,Technician,Mortgage,0,541,2,2495.73,Good,Approved
+Female,22,Salaried,66975.76,18,Bachelors,Married,Executive,Owned,0,730,1,5564.32,Bad,Approved
+Male,25,Salaried,75450.72,35,High School,Married,Other,Mortgage,0,675,0,26480.7,Good,Approved
+Female,49,Salaried,63525.92,29,Bachelors,Married,Clerk,Rented,1,546,3,12221.58,Good,Approved
+Female,57,Self-Employed,72648.5,32,High School,Married,Technician,Rented,5,733,4,26626.2,Good,Approved
+Female,58,Salaried,84758.84,17,Bachelors,Married,Technician,Rented,1,537,2,14374.15,Average,Rejected
+Female,39,Business,13726.49,27,PhD,Married,Other,Mortgage,4,634,0,264.82,Average,Approved
+Male,28,Salaried,83586.6,10,Bachelors,Married,Executive,Owned,0,631,4,22136.54,Good,Approved
+Female,68,Business,68560.69,32,High School,Single,Clerk,Owned,5,763,4,10280.86,Good,Approved
+Male,65,Unemployed,32209.37,16,High School,Divorced,Executive,Rented,5,631,1,20589.51,Average,Approved
+Male,21,Business,80061.77,5,Bachelors,Married,Manager,Rented,2,631,1,15201.69,Good,Approved
+Male,42,Business,50041.98,3,High School,Divorced,Executive,Rented,4,554,0,2655.05,Good,Approved
+Male,37,Salaried,53450.84,19,High School,Married,Technician,Rented,5,605,4,16314.36,Good,Approved
+Female,27,Salaried,47308.01,26,Masters,Married,Clerk,Owned,0,592,1,32569.79,Bad,Approved
+Male,45,Salaried,67559.97,14,Bachelors,Single,Executive,Mortgage,0,596,2,18943.89,Good,Approved
+Male,65,Salaried,40366.17,5,Bachelors,Widowed,Clerk,Mortgage,5,650,2,14539.86,Average,Approved
+Male,24,Salaried,82536.87,13,Masters,Widowed,Clerk,Mortgage,1,479,4,23602.75,Good,Rejected
+Female,56,Salaried,56528.44,10,High School,Single,Manager,Mortgage,4,544,1,16685.35,Good,Approved
+Female,26,Salaried,50894.94,38,PhD,Divorced,Manager,Rented,0,642,0,16676.27,Good,Approved
+Female,51,Salaried,78821.89,8,Bachelors,Widowed,Technician,Rented,5,658,0,6267.0,Good,Approved
+Female,39,Business,52011.08,25,Masters,Single,Other,Rented,0,633,0,16870.78,Good,Approved
+Male,64,Salaried,83704.42,15,Bachelors,Single,Clerk,Mortgage,5,647,2,23283.55,Good,Approved
+Male,59,Self-Employed,84489.82,4,Masters,Widowed,Other,Rented,4,621,1,8311.5,Good,Approved
+Female,47,Business,26629.9,9,PhD,Divorced,Technician,Rented,5,648,1,26395.97,Average,Approved
+Male,30,Unemployed,87731.51,2,Bachelors,Single,Clerk,Owned,2,680,2,14266.35,Bad,Approved
+Male,46,Self-Employed,23449.1,12,PhD,Married,Clerk,Owned,5,679,0,7897.84,Good,Approved
+Male,39,Business,89289.51,29,Bachelors,Divorced,Other,Rented,5,601,0,22981.06,Good,Approved
+Female,59,Unemployed,110708.93,5,Bachelors,Divorced,Executive,Owned,4,714,4,12705.65,Good,Approved
+Female,23,Business,81870.86,16,Bachelors,Widowed,Manager,Owned,5,660,3,21076.12,Good,Approved
+Male,65,Salaried,6075.48,18,Bachelors,Widowed,Executive,Rented,4,736,1,12665.93,Average,Approved
+Female,33,Salaried,86589.14,34,High School,Married,Other,Rented,2,750,1,14521.39,Good,Approved
+Female,48,Salaried,116153.22,25,Bachelors,Single,Manager,Rented,4,549,1,18948.48,Good,Approved
+Female,40,Salaried,52424.21,4,Bachelors,Widowed,Executive,Rented,0,589,3,17327.18,Average,Rejected
+Female,48,Self-Employed,59132.42,28,Masters,Widowed,Manager,Mortgage,4,706,4,-964.25,Good,Approved
+Female,28,Self-Employed,30287.83,36,Masters,Divorced,Clerk,Mortgage,2,533,3,6030.05,Good,Approved
+Male,61,Business,67801.99,19,Bachelors,Widowed,Executive,Rented,3,749,0,22435.28,Good,Approved
+Female,59,Salaried,91729.43,20,Bachelors,Widowed,Manager,Owned,5,625,0,13942.91,Good,Approved
+Male,21,Business,77443.43,9,Bachelors,Widowed,Manager,Rented,4,690,1,10810.15,Good,Approved
+Male,23,Self-Employed,138549.17,4,High School,Widowed,Manager,Rented,5,641,2,4131.41,Average,Approved
+Female,33,Self-Employed,60825.68,35,High School,Divorced,Executive,Owned,1,552,1,6362.11,Average,Approved
+Male,48,Business,19233.17,5,Bachelors,Married,Technician,Mortgage,0,723,2,-1174.39,Good,Approved
+Male,69,Self-Employed,64274.27,25,Bachelors,Married,Executive,Rented,0,842,3,14189.75,Bad,Approved
+Male,45,Salaried,-411.29,3,PhD,Single,Other,Rented,1,613,0,10212.5,Good,Approved
+Female,53,Business,46672.4,38,Bachelors,Widowed,Executive,Mortgage,1,627,2,7267.3,Average,Approved
+Female,58,Salaried,100609.55,38,Bachelors,Divorced,Manager,Mortgage,4,464,3,14455.01,Good,Approved
+Male,26,Salaried,68128.34,34,Bachelors,Single,Clerk,Owned,1,744,0,17911.77,Average,Approved
+Female,64,Business,64485.42,0,High School,Single,Executive,Mortgage,3,713,2,31745.58,Bad,Approved
+Female,65,Salaried,105519.51,23,Bachelors,Married,Executive,Mortgage,5,528,1,2904.93,Good,Approved
+Female,52,Self-Employed,53235.0,35,Bachelors,Divorced,Manager,Mortgage,5,505,1,24275.05,Bad,Rejected
+Female,65,Salaried,91545.51,5,Bachelors,Divorced,Clerk,Owned,2,513,1,22784.81,Average,Approved
+Male,67,Business,63232.67,30,Bachelors,Divorced,Clerk,Mortgage,1,695,3,8767.26,Average,Approved
+Male,41,Salaried,69501.19,19,PhD,Married,Other,Mortgage,1,702,1,16625.89,Good,Approved
+Female,36,Unemployed,29567.38,23,Masters,Married,Executive,Owned,3,585,4,11338.93,Average,Rejected
+Female,41,Self-Employed,47948.83,24,Bachelors,Married,Clerk,Mortgage,0,684,0,16485.51,Average,Approved
+Male,31,Salaried,25062.04,35,Bachelors,Married,Clerk,Mortgage,0,661,3,27073.05,Good,Approved
+Male,57,Salaried,57618.87,20,Bachelors,Married,Technician,Owned,5,624,1,19844.85,Bad,Approved
+Female,56,Unemployed,69760.06,29,Bachelors,Widowed,Technician,Rented,5,717,0,19068.87,Good,Approved
+Male,55,Salaried,32249.05,23,Bachelors,Widowed,Clerk,Owned,4,565,2,11557.53,Good,Approved
+Female,39,Salaried,111229.47,29,High School,Divorced,Other,Mortgage,3,730,1,3127.55,Good,Approved
+Female,40,Salaried,66952.65,21,Bachelors,Single,Clerk,Mortgage,2,599,0,13332.25,Good,Approved
+Male,38,Salaried,61444.89,27,Bachelors,Divorced,Manager,Mortgage,2,774,4,24652.87,Good,Approved
+Male,67,Self-Employed,79241.44,6,Bachelors,Single,Executive,Owned,3,579,2,2782.66,Good,Approved
+Female,61,Self-Employed,39276.8,34,PhD,Married,Other,Mortgage,2,625,4,6559.29,Bad,Rejected
+Female,69,Salaried,64086.94,27,Masters,Single,Manager,Mortgage,0,654,0,16010.14,Good,Approved
+Male,34,Salaried,42078.34,13,Masters,Divorced,Other,Owned,2,653,4,7122.76,Good,Approved
+Female,35,Self-Employed,98967.0,9,Bachelors,Divorced,Manager,Rented,2,684,0,8659.81,Good,Approved
+Male,51,Salaried,33534.02,15,Masters,Single,Executive,Rented,3,560,0,11611.21,Good,Approved
+Female,21,Salaried,61579.14,15,High School,Widowed,Executive,Mortgage,3,647,4,4075.06,Bad,Rejected
+Male,23,Business,68232.89,30,Masters,Married,Technician,Owned,2,659,0,7207.03,Good,Approved
+Male,36,Self-Employed,69870.64,24,High School,Married,Manager,Mortgage,1,613,1,20627.42,Average,Approved
+Male,43,Self-Employed,45469.12,12,Masters,Divorced,Technician,Owned,3,678,0,4541.04,Good,Approved
+Female,31,Business,37612.26,5,Bachelors,Widowed,Manager,Owned,4,555,3,2217.02,Good,Approved
+Female,32,Salaried,45830.12,8,Masters,Single,Technician,Rented,4,627,0,9959.8,Good,Approved
+Male,30,Business,73208.14,35,Masters,Married,Executive,Rented,0,597,3,20855.64,Good,Approved
+Female,52,Salaried,56403.86,19,High School,Widowed,Other,Owned,2,627,0,13424.63,Good,Approved
+Male,36,Salaried,79905.22,17,Bachelors,Married,Technician,Mortgage,1,751,0,11283.35,Good,Approved
+Male,28,Salaried,71925.09,20,PhD,Widowed,Manager,Rented,0,752,4,15354.87,Good,Approved
+Female,58,Salaried,3077.18,3,Bachelors,Widowed,Manager,Mortgage,2,738,1,1034.34,Average,Approved
+Female,32,Self-Employed,66187.44,32,Masters,Divorced,Executive,Rented,3,617,1,18957.65,Good,Approved
+Male,44,Salaried,116261.37,26,Bachelors,Married,Manager,Rented,4,713,2,18067.48,Good,Approved
+Female,48,Salaried,93131.73,6,Bachelors,Single,Clerk,Mortgage,5,657,4,11725.53,Good,Approved
+Female,28,Salaried,70550.33,5,Bachelors,Divorced,Other,Rented,1,653,4,23047.4,Good,Approved
+Male,48,Salaried,33515.2,14,Bachelors,Divorced,Technician,Rented,5,644,1,5980.03,Average,Approved
+Male,56,Self-Employed,71938.84,17,Masters,Single,Other,Mortgage,4,773,4,24023.27,Good,Approved
+Female,46,Salaried,78493.75,31,Bachelors,Divorced,Executive,Rented,5,745,1,16235.95,Good,Approved
+Male,28,Self-Employed,53656.33,10,Bachelors,Widowed,Technician,Rented,3,702,4,12307.58,Bad,Approved
+Male,48,Salaried,67918.55,19,Bachelors,Widowed,Technician,Rented,2,638,0,14841.01,Good,Approved
+Female,48,Salaried,97741.56,23,Bachelors,Married,Clerk,Mortgage,3,652,1,14141.88,Good,Approved
+Male,57,Business,38568.14,14,Masters,Married,Executive,Owned,5,687,1,24762.26,Good,Approved
+Male,61,Salaried,33542.51,6,PhD,Single,Manager,Mortgage,3,613,3,6386.57,Good,Approved
+Female,56,Self-Employed,77317.48,20,Bachelors,Married,Clerk,Owned,4,715,4,8899.85,Average,Approved
+Female,47,Salaried,71438.57,25,Masters,Widowed,Clerk,Rented,1,585,4,23290.42,Average,Rejected
+Male,37,Salaried,85720.96,13,Masters,Single,Other,Owned,3,677,1,10235.72,Bad,Approved
+Male,29,Unemployed,74244.85,36,Bachelors,Single,Other,Mortgage,4,489,0,22204.26,Good,Approved
+Female,53,Salaried,45806.12,20,PhD,Married,Other,Mortgage,1,611,0,28595.49,Good,Approved
+Female,40,Salaried,70804.82,17,Bachelors,Widowed,Clerk,Rented,2,795,0,11785.64,Average,Approved
+Female,33,Self-Employed,31446.84,4,High School,Single,Manager,Owned,5,722,4,20450.9,Good,Approved
+Female,48,Salaried,53742.03,2,Masters,Widowed,Technician,Rented,2,757,3,5770.46,Good,Approved
+Male,68,Business,72569.98,22,Bachelors,Widowed,Other,Rented,0,603,1,21037.87,Good,Approved
+Female,49,Salaried,50987.14,25,Masters,Widowed,Manager,Mortgage,4,657,2,16595.39,Good,Approved
+Female,33,Business,121701.3,36,Masters,Married,Executive,Owned,1,739,3,18784.31,Good,Approved
+Male,66,Self-Employed,12695.39,23,High School,Divorced,Other,Owned,3,694,2,9835.42,Average,Approved
+Female,55,Self-Employed,46312.74,18,Masters,Divorced,Technician,Owned,2,685,3,1711.33,Average,Approved
+Male,26,Business,36555.5,24,Bachelors,Single,Executive,Owned,1,764,0,19026.02,Good,Approved
+Female,38,Salaried,42491.28,20,Bachelors,Widowed,Executive,Rented,4,577,4,-1507.23,Good,Approved
+Female,25,Unemployed,43925.04,11,Bachelors,Married,Technician,Rented,0,637,2,12461.2,Good,Approved
+Female,67,Salaried,26839.48,32,Masters,Widowed,Other,Mortgage,2,527,3,22529.45,Average,Rejected
+Male,45,Salaried,78817.55,3,High School,Widowed,Clerk,Rented,5,573,4,16535.18,Good,Approved
+Male,22,Salaried,46322.62,6,Bachelors,Married,Technician,Rented,1,725,2,30586.74,Average,Approved
+Female,30,Salaried,64089.33,21,Bachelors,Divorced,Technician,Mortgage,5,585,1,23200.87,Good,Approved
+Male,50,Salaried,49129.36,32,Masters,Widowed,Technician,Mortgage,1,701,3,9768.81,Good,Approved
+Male,65,Business,42727.99,16,Bachelors,Widowed,Executive,Mortgage,1,766,1,15218.51,Good,Approved
+Male,25,Business,101806.98,23,High School,Divorced,Manager,Rented,4,637,0,14621.03,Average,Approved
+Male,53,Unemployed,83073.3,33,Bachelors,Married,Clerk,Rented,4,686,1,2342.59,Good,Approved
+Male,21,Salaried,13294.99,27,Bachelors,Single,Other,Mortgage,4,702,1,7476.81,Good,Approved
+Male,38,Self-Employed,10646.56,38,Masters,Divorced,Other,Mortgage,3,564,3,10513.91,Good,Approved
+Female,52,Salaried,86065.22,21,Bachelors,Single,Manager,Mortgage,1,606,0,-1289.76,Average,Approved
+Female,67,Salaried,47003.67,16,Bachelors,Single,Technician,Rented,2,579,1,15379.95,Average,Approved
+Male,69,Salaried,18772.94,33,PhD,Divorced,Clerk,Rented,5,612,4,13007.43,Good,Approved
+Female,31,Salaried,86143.38,5,High School,Widowed,Other,Owned,4,700,2,1616.85,Average,Approved
+Female,41,Self-Employed,64228.1,5,PhD,Single,Other,Rented,4,608,1,18233.7,Good,Approved
+Female,46,Salaried,66289.28,33,Bachelors,Single,Technician,Rented,5,647,0,20726.98,Good,Approved
+Female,45,Salaried,80238.48,0,Masters,Married,Manager,Rented,5,577,1,16816.28,Good,Approved
+Male,42,Salaried,27250.57,9,Bachelors,Widowed,Clerk,Mortgage,1,735,2,12407.45,Good,Approved
+Female,47,Salaried,19212.48,20,High School,Single,Manager,Rented,4,611,0,19731.54,Average,Approved
+Female,69,Salaried,99523.86,4,Masters,Married,Manager,Mortgage,5,756,3,20441.76,Average,Approved
+Male,33,Unemployed,24070.83,1,Masters,Widowed,Clerk,Owned,3,654,0,17459.23,Good,Approved
+Male,53,Salaried,29444.06,21,Masters,Divorced,Clerk,Owned,3,551,3,8403.1,Good,Approved
+Female,54,Salaried,34439.12,1,High School,Divorced,Other,Mortgage,4,638,0,17212.81,Average,Approved
+Female,61,Salaried,111998.65,9,Masters,Married,Other,Mortgage,5,575,2,24563.85,Bad,Approved
+Female,55,Business,72334.58,33,Masters,Divorced,Clerk,Mortgage,1,691,2,10226.97,Good,Approved
+Female,21,Unemployed,84135.2,15,Bachelors,Single,Executive,Rented,1,631,0,31783.51,Bad,Approved
+Female,41,Self-Employed,64904.19,38,Masters,Widowed,Other,Owned,1,661,1,10794.95,Good,Approved
+Female,68,Self-Employed,44952.82,21,Masters,Single,Executive,Mortgage,0,624,2,15259.26,Good,Approved
+Male,26,Salaried,75782.28,11,Bachelors,Single,Clerk,Rented,4,611,3,9620.12,Average,Approved
+Female,48,Salaried,21084.6,23,High School,Divorced,Other,Owned,1,581,3,16786.17,Good,Approved
+Female,37,Unemployed,32617.91,39,Bachelors,Single,Manager,Rented,3,708,4,1062.23,Good,Approved
+Male,25,Self-Employed,78324.38,37,High School,Divorced,Clerk,Owned,5,637,3,10631.67,Good,Approved
+Male,51,Self-Employed,26068.62,9,Bachelors,Widowed,Technician,Rented,2,627,4,6263.03,Average,Rejected
+Male,25,Self-Employed,55272.96,34,Bachelors,Widowed,Executive,Owned,2,636,0,16082.71,Average,Approved
+Male,58,Self-Employed,56412.19,31,High School,Single,Clerk,Owned,1,602,0,22955.58,Good,Approved
+Female,23,Self-Employed,46783.45,6,Bachelors,Married,Clerk,Rented,2,628,0,20168.05,Good,Approved
+Female,43,Unemployed,11222.04,20,High School,Divorced,Other,Mortgage,2,664,1,-3973.27,Good,Approved
+Female,57,Business,44276.78,19,Masters,Divorced,Other,Owned,0,577,1,31336.56,Good,Approved
+Female,57,Self-Employed,39375.79,25,Masters,Single,Other,Mortgage,3,587,4,17362.24,Good,Approved
+Female,30,Self-Employed,64036.0,3,High School,Divorced,Technician,Rented,3,746,3,8788.01,Average,Approved
+Female,30,Salaried,62762.26,21,PhD,Divorced,Other,Mortgage,0,624,3,16257.02,Good,Approved
+Male,39,Self-Employed,69449.04,14,Bachelors,Married,Clerk,Mortgage,0,611,0,16409.52,Good,Approved
+Female,37,Salaried,43100.34,39,Bachelors,Married,Other,Mortgage,2,555,2,9665.21,Good,Approved
+Male,41,Salaried,73069.45,20,High School,Single,Manager,Mortgage,4,709,1,16583.33,Good,Approved
+Male,34,Unemployed,21099.83,14,Bachelors,Married,Other,Mortgage,5,576,1,10140.22,Bad,Rejected
+Female,29,Salaried,14452.38,21,Masters,Single,Technician,Owned,5,648,0,11765.1,Good,Approved
+Male,66,Salaried,1610.68,27,Masters,Widowed,Manager,Owned,2,530,1,9509.77,Good,Approved
+Female,21,Salaried,47517.57,13,High School,Single,Clerk,Owned,5,707,0,3538.63,Good,Approved
+Male,65,Salaried,41167.54,26,High School,Widowed,Clerk,Rented,0,732,4,16166.69,Good,Approved
+Female,33,Self-Employed,79732.89,39,Bachelors,Single,Executive,Mortgage,3,683,3,19682.4,Good,Approved
+Male,24,Salaried,43783.44,27,Bachelors,Divorced,Manager,Owned,5,542,2,19119.07,Good,Approved
+Female,21,Salaried,66834.41,25,Bachelors,Married,Executive,Rented,2,708,3,21559.4,Good,Approved
+Female,69,Salaried,80332.41,1,Bachelors,Widowed,Manager,Owned,4,592,3,17594.72,Good,Approved
+Female,60,Self-Employed,42842.02,24,Masters,Single,Manager,Owned,2,568,4,10738.2,Good,Approved
+Female,52,Self-Employed,67451.31,2,Masters,Married,Technician,Mortgage,1,623,1,21717.31,Good,Approved
+Female,54,Salaried,85048.19,7,Bachelors,Single,Executive,Rented,2,621,2,4139.86,Bad,Approved
+Male,48,Salaried,29045.93,32,Masters,Married,Technician,Mortgage,0,614,1,7794.63,Good,Approved
+Male,51,Salaried,60621.31,34,Bachelors,Married,Manager,Mortgage,3,739,3,7286.4,Good,Approved
+Male,28,Self-Employed,42949.14,5,Bachelors,Single,Clerk,Owned,3,790,0,23640.45,Good,Approved
+Female,59,Self-Employed,30637.75,38,Bachelors,Widowed,Manager,Mortgage,5,554,3,22542.31,Good,Approved
+Male,46,Salaried,21588.71,22,Bachelors,Widowed,Technician,Rented,0,601,1,18898.44,Average,Approved
+Female,54,Salaried,30233.79,24,PhD,Divorced,Executive,Mortgage,1,659,3,23575.44,Good,Approved
+Female,23,Salaried,61500.73,18,Bachelors,Married,Executive,Mortgage,0,622,0,7965.74,Average,Approved
+Male,32,Business,19728.89,4,Bachelors,Divorced,Technician,Mortgage,2,677,4,17788.76,Good,Approved
+Male,21,Salaried,46231.82,10,Bachelors,Divorced,Executive,Owned,0,714,1,13998.6,Good,Approved
+Female,64,Salaried,80329.86,11,High School,Single,Other,Rented,0,702,3,21775.06,Average,Approved
+Male,25,Salaried,71225.27,9,Masters,Single,Clerk,Owned,1,692,1,14078.21,Good,Approved
+Female,50,Salaried,46737.31,7,Bachelors,Single,Clerk,Owned,2,766,4,11920.46,Good,Approved
+Female,50,Business,102242.26,23,Bachelors,Married,Clerk,Owned,4,538,3,19327.27,Good,Approved
+Female,37,Salaried,107325.91,27,Bachelors,Single,Executive,Owned,4,753,3,22009.35,Average,Approved
+Female,68,Self-Employed,60653.06,35,Bachelors,Single,Executive,Owned,3,621,1,9653.24,Good,Approved
+Female,67,Self-Employed,-1713.57,36,High School,Married,Manager,Rented,5,704,1,14511.39,Average,Approved
+Male,43,Salaried,82161.2,20,Bachelors,Married,Manager,Mortgage,0,577,0,6532.47,Good,Approved
+Male,35,Salaried,2650.59,7,Bachelors,Widowed,Clerk,Owned,3,586,4,-4984.49,Average,Rejected
+Female,57,Business,96903.65,8,Masters,Single,Other,Owned,1,696,0,16603.68,Good,Approved
+Female,41,Salaried,87089.62,14,Masters,Single,Manager,Rented,4,514,3,19871.24,Average,Rejected
+Male,34,Salaried,104355.31,39,Masters,Single,Manager,Rented,0,719,1,17096.53,Good,Approved
+Male,22,Unemployed,66506.64,17,Bachelors,Widowed,Executive,Mortgage,1,738,3,-596.49,Bad,Approved
+Female,31,Salaried,50965.36,19,Bachelors,Single,Other,Rented,5,662,3,12193.2,Good,Approved
+Male,59,Salaried,48747.47,5,High School,Widowed,Clerk,Mortgage,1,659,2,-2746.78,Good,Approved
+Female,58,Salaried,46343.5,11,Masters,Divorced,Manager,Owned,0,591,2,25957.61,Good,Approved
+Male,54,Business,84526.72,1,Bachelors,Widowed,Other,Owned,5,697,3,6311.56,Good,Approved
+Female,58,Salaried,77806.79,6,Bachelors,Divorced,Other,Mortgage,1,674,1,25043.23,Good,Approved
+Male,54,Salaried,63005.64,15,Bachelors,Single,Clerk,Rented,5,585,3,22566.96,Bad,Rejected
+Female,38,Salaried,41945.47,2,High School,Divorced,Other,Mortgage,0,622,2,7795.28,Bad,Approved
+Male,50,Salaried,125730.32,2,Bachelors,Widowed,Other,Rented,0,638,1,5937.72,Good,Approved
+Male,35,Salaried,82809.37,26,High School,Married,Other,Owned,5,622,3,17802.96,Bad,Approved
+Female,47,Salaried,20057.2,39,Masters,Divorced,Manager,Rented,2,554,4,8245.41,Good,Rejected
+Male,54,Salaried,47093.6,37,Bachelors,Divorced,Clerk,Mortgage,3,698,4,15819.88,Good,Approved
+Female,58,Salaried,83294.4,32,High School,Single,Other,Mortgage,1,632,3,11137.38,Average,Approved
+Male,53,Salaried,40011.53,27,Bachelors,Widowed,Other,Owned,1,651,1,750.73,Good,Approved
+Female,44,Salaried,68788.7,0,High School,Divorced,Manager,Rented,2,609,3,-2843.74,Bad,Approved
+Male,35,Salaried,83769.91,7,Bachelors,Divorced,Clerk,Rented,2,683,3,16813.47,Good,Approved
+Female,50,Salaried,-24710.7,36,Masters,Divorced,Executive,Rented,2,663,2,10507.54,Good,Approved
+Male,62,Self-Employed,57299.06,31,High School,Divorced,Manager,Owned,4,734,4,10575.28,Good,Approved
+Female,37,Salaried,58280.23,36,Masters,Married,Clerk,Rented,4,683,2,20566.91,Good,Approved
+Male,25,Salaried,49698.19,3,High School,Widowed,Other,Mortgage,5,635,2,24387.54,Good,Approved
+Female,49,Salaried,67542.38,29,Bachelors,Single,Clerk,Rented,4,598,3,12819.64,Bad,Rejected
+Female,24,Business,76437.99,5,Masters,Single,Clerk,Owned,0,710,2,12275.21,Average,Approved
+Female,30,Self-Employed,63551.27,18,Bachelors,Married,Clerk,Rented,5,630,4,19001.14,Average,Rejected
+Male,37,Salaried,50654.32,31,High School,Widowed,Executive,Rented,1,637,2,4144.52,Good,Approved
+Female,30,Salaried,75815.53,8,Bachelors,Divorced,Clerk,Mortgage,3,637,4,16785.22,Good,Approved
+Male,37,Business,61226.34,11,Bachelors,Married,Executive,Rented,0,621,2,19415.09,Good,Approved
+Female,40,Salaried,54232.49,10,Masters,Widowed,Other,Mortgage,1,639,4,20441.84,Good,Approved
+Male,44,Salaried,27193.02,15,Bachelors,Divorced,Executive,Mortgage,1,784,2,-494.02,Good,Approved
+Female,25,Salaried,20933.63,0,Masters,Married,Other,Owned,5,576,2,8909.16,Average,Rejected
+Male,54,Salaried,26719.26,20,Masters,Widowed,Other,Mortgage,2,592,1,7973.89,Good,Approved
+Male,26,Unemployed,66958.23,29,Bachelors,Single,Executive,Mortgage,2,746,4,15799.1,Good,Approved
+Female,22,Self-Employed,58023.03,12,Masters,Single,Manager,Owned,0,623,4,18845.96,Good,Approved
+Male,33,Salaried,22992.9,33,Bachelors,Widowed,Technician,Mortgage,2,618,4,26973.68,Good,Approved
+Male,63,Salaried,76147.95,3,PhD,Single,Clerk,Owned,1,722,0,11040.28,Good,Approved
+Female,63,Unemployed,94357.74,27,High School,Widowed,Technician,Rented,2,550,2,11019.42,Bad,Approved
+Male,68,Business,45037.66,37,Bachelors,Divorced,Clerk,Owned,4,707,4,24197.38,Good,Approved
+Male,31,Self-Employed,16475.45,30,Bachelors,Widowed,Clerk,Mortgage,2,653,0,17372.62,Average,Approved
+Male,67,Business,42271.84,26,Bachelors,Divorced,Other,Owned,1,682,1,25141.21,Good,Approved
+Female,43,Unemployed,81361.52,4,Bachelors,Married,Clerk,Mortgage,5,681,4,17309.82,Good,Approved
+Male,36,Self-Employed,73713.25,24,Masters,Widowed,Clerk,Rented,0,606,4,5743.07,Good,Approved
+Female,51,Salaried,36939.18,2,High School,Married,Executive,Owned,3,723,0,4334.97,Average,Approved

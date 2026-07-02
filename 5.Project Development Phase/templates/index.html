@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="row">
+  <div class="col-md-8">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h3>Welcome to the Credit Approval Prediction System</h3>
+        <p>Use the Predict page to evaluate applications or train models in the backend.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="card text-white bg-primary mb-3">
+      <div class="card-body">
+        <h5 class="card-title">Quick Actions</h5>
+        <p><a class="btn btn-light btn-sm" href="/predict">Make a Prediction</a></p>
+        <p><a class="btn btn-light btn-sm" href="/dashboard">View Dashboard</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
