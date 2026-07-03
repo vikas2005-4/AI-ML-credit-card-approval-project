@@ -2,5 +2,5 @@ services:
   - type: web
     name: credit-card-approval
     env: python
-    buildCommand: cd "5.Project Development Phase" && pip install -r requirements.txt
-    startCommand: cd "5.Project Development Phase" && gunicorn app:app
+    buildCommand: pip install -r "5.Project Development Phase/requirements.txt"
+    startCommand: gunicorn app:app --chdir "5.Project Development Phase"
