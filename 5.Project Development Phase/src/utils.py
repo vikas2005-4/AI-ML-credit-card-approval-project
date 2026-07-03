@@ -34,7 +34,7 @@ def save_prediction(db_path, name, input_json, prediction, probability, model_na
 def get_recent_predictions(db_path, limit=10):
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
-    cur.execute('SELECT id, name, prediction, probability, model, created_at FROM predictions ORDER BY id DESC LIMIT ?', (limit,))
+    cur.execute('SELECT id, name, prediction, probability, created_at FROM predictions ORDER BY id DESC LIMIT ?', (limit,))
     rows = cur.fetchall()
     conn.close()
     return rows
