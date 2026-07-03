@@ -1,9 +1,9 @@
-flask
-pandas
-numpy
-scikit-learn
+Flask
+gunicorn
 joblib
-xgboost
 matplotlib
+numpy
+pandas
+scikit-learn
 seaborn
-sqlite3
+xgboost

@@ -11,10 +11,10 @@
 </div>
 <h5>Recent Predictions</h5>
 <table class="table table-striped">
-  <thead><tr><th>ID</th><th>Name</th><th>Decision</th><th>Prob</th><th>Model</th><th>When</th></tr></thead>
+  <thead><tr><th>ID</th><th>Name</th><th>Decision</th><th>Prob</th><th>When</th></tr></thead>
   <tbody>
     {% for r in recent %}
-      <tr><td>{{r[0]}}</td><td>{{r[1]}}</td><td>{{r[2]}}</td><td>{{'%.2f'|format(r[3]*100) ~ '%'}} </td><td>{{r[4]}}</td><td>{{r[5]}}</td></tr>
+      <tr><td>{{r[0]}}</td><td>{{r[1]}}</td><td>{{r[2]}}</td><td>{{'%.2f'|format(r[3]*100) ~ '%'}} </td><td>{{r[4]}}</td></tr>
     {% endfor %}
   </tbody>
 </table>

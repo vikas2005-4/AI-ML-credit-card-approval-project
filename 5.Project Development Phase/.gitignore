@@ -5,3 +5,7 @@ predictions.db
 .env
 .venv/
 .venv-1/
+.DS_Store
+.vscode/
+.idea/
+venv/
