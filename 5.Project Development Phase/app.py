@@ -8,7 +8,7 @@ BASE_DIR = os.path.dirname(__file__)
 DB_PATH = os.path.join(BASE_DIR, 'predictions.db')
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'change-me-in-production'
+app.config['SECRET_KEY'] = os.getenv("SECRET_KEY", "change-me-in-production")
 
 init_db(DB_PATH)
 
